@@ -82,7 +82,7 @@ width: 798px;
 
 .leftpane
 {
-width: 480px;
+width: 750px;
 }
 
 .leftpane, .widepane
@@ -90,7 +90,7 @@ width: 480px;
 
 background-color: white;
 border-width: 1px;
-border-style: dashed;
+border-style: solid;
 border-color: #c9c9c9;
 color: black;
 font-family: Helvetica, Arial;
@@ -119,7 +119,7 @@ width:300px;
 float:right;
 background-color: white;
 border-width: 1px;
-border-style: dashed;
+border-style: solid;
 border-color: #c9c9c9;
 }
 
