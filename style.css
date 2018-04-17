@@ -403,10 +403,10 @@ a.side:visited {color: #b6b6b6;}
 a.side:hover {color: white; background-color: #44b5fc;}
 
 a.gamelink {background-repeat:no-repeat; padding-left: 18px;}
-a.gamelink:link {background-image:url('/img/gamelink.png');}
-a.gamelink:active {background-image:url('/img/gamelink.png');}
-a.gamelink:visited {background-image:url('/img/gamelink.png');}
-a.gamelink:hover {background-image:url('/img/gamelinkH.png');}
+a.gamelink:link {background-image:url('img/gamelink.png');}
+a.gamelink:active {background-image:url('img/gamelink.png');}
+a.gamelink:visited {background-image:url('img/gamelink.png');}
+a.gamelink:hover {background-image:url('img/gamelink.png');}
 
 a.gameBigLink {color: #e3f862; font-weight: bold;}
 a.gameBigLink:link {text-decoration: none;}
