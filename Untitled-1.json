@@ -1,0 +1,140 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "Maps",
+    "Types"
+  ],
+  "properties": {
+    "Maps": {
+      "$id": "#/properties/Maps",
+      "type": "array",
+      "title": "The Maps Schema",
+      "items": {
+        "$id": "#/properties/Maps/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "required": [
+          "mapName",
+          "displayName"
+        ],
+        "properties": {
+          "mapName": {
+            "$id": "#/properties/Maps/items/properties/mapName",
+            "type": "string",
+            "title": "The Mapname Schema",
+            "default": "",
+            "examples": [
+              "DeathCurve.v4"
+            ],
+            "pattern": "^(.*)$"
+          },
+          "displayName": {
+            "$id": "#/properties/Maps/items/properties/displayName",
+            "type": "string",
+            "title": "The Displayname Schema",
+            "default": "",
+            "examples": [
+              "DeathCurve.v4"
+            ],
+            "pattern": "^(.*)$"
+          }
+        }
+      }
+    },
+    "Types": {
+      "$id": "#/properties/Types",
+      "type": "array",
+      "title": "The Types Schema",
+      "items": {
+        "$id": "#/properties/Types/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "required": [
+          "displayName",
+          "typeName",
+          "commands",
+          "SpecificMaps"
+        ],
+        "properties": {
+          "displayName": {
+            "$id": "#/properties/Types/items/properties/displayName",
+            "type": "string",
+            "title": "The Displayname Schema",
+            "default": "",
+            "examples": [
+              "GooseHunt"
+            ],
+            "pattern": "^(.*)$"
+          },
+          "typeName": {
+            "$id": "#/properties/Types/items/properties/typeName",
+            "type": "string",
+            "title": "The Typename Schema",
+            "default": "",
+            "examples": [
+              "GooseHunt"
+            ],
+            "pattern": "^(.*)$"
+          },
+          "commands": {
+            "$id": "#/properties/Types/items/properties/commands",
+            "type": "array",
+            "title": "The Commands Schema",
+            "items": {
+              "$id": "#/properties/Types/items/properties/commands/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "default": "",
+              "examples": [
+                "Server.SprintEnabled 0",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+              ],
+              "pattern": "^(.*)$"
+            }
+          },
+          "SpecificMaps": {
+            "$id": "#/properties/Types/items/properties/SpecificMaps",
+            "type": "array",
+            "title": "The Specificmaps Schema",
+            "items": {
+              "$id": "#/properties/Types/items/properties/SpecificMaps/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "required": [
+                "mapName",
+                "displayName"
+              ],
+              "properties": {
+                "mapName": {
+                  "$id": "#/properties/Types/items/properties/SpecificMaps/items/properties/mapName",
+                  "type": "string",
+                  "title": "The Mapname Schema",
+                  "default": "",
+                  "examples": [
+                    "DeathCurve.v4"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "displayName": {
+                  "$id": "#/properties/Types/items/properties/SpecificMaps/items/properties/displayName",
+                  "type": "string",
+                  "title": "The Displayname Schema",
+                  "default": "",
+                  "examples": [
+                    "DeathCurve.v4"
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
