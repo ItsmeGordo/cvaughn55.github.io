@@ -1,0 +1,1164 @@
+{
+  "Maps": [
+    {
+      "displayName": "Den",
+      "mapName": "Basilisk Den"
+    },
+    {
+      "displayName": "Block Fort",
+      "mapName": "Block Fort"
+    },
+    {
+      "displayName": "Pitfall Dunes",
+      "mapName": "Pitfall Dunes"
+    },
+    {
+      "displayName": "Bridge Blow Up",
+      "mapName": "Bridge Blow Up"
+    },
+    {
+      "displayName": "PhantomMenacev2",
+      "mapName": "PhantomMenacev2"
+    },
+    {
+      "displayName": "Ruined Castle",
+      "mapName": "Ruined Castle"
+    },
+    {
+      "displayName": "StarfortWars",
+      "mapName": "StarfortWars"
+    },
+    {
+      "displayName": "Dog Red",
+      "mapName": "Dog Red"
+    },
+    {
+      "displayName": "Dig to Dewrito",
+      "mapName": "Dig to Dewrito"
+    },
+    {
+      "displayName": "Infested House",
+      "mapName": "Infested House"
+    },
+    {
+      "displayName": "SnowBox",
+      "mapName": "SnowBox"
+    },
+    {
+      "displayName": "Flood Contagion",
+      "mapName": "Flood Contagion"
+    },
+    {
+      "displayName": "Sandy Pond",
+      "mapName": "Sandy Pond"
+    },
+    {
+      "displayName": "The Warehouse",
+      "mapName": "The Warehouse"
+    },
+    {
+      "displayName": "Gladiator Pit",
+      "mapName": "Gladiator Pit"
+    },
+    {
+      "displayName": "Hole in one Ca",
+      "mapName": "Hole in one Ca"
+    },
+    {
+      "displayName": "Hole in one",
+      "mapName": "Hole in one"
+    },
+    {
+      "displayName": "Joust! V1",
+      "mapName": "Joust! V1"
+    },
+    {
+      "displayName": "Laser Tag Arena",
+      "mapName": "Laser Tag Arena"
+    },
+    {
+      "displayName": "Nacht D Untoten",
+      "mapName": "Nacht D Untoten"
+    },
+    {
+      "displayName": "Pallet_CTF",
+      "mapName": "Pallet_CTF"
+    },
+    {
+      "displayName": "Pirate YEET",
+      "mapName": "Pirate YEET"
+    },
+    {
+      "displayName": "CenterHole",
+      "mapName": "CenterHole"
+    },
+    {
+      "displayName": "HouseOfSpooxv2",
+      "mapName": "HouseOfSpooxv2"
+    },
+    {
+      "displayName": "SkyKingdom",
+      "mapName": "SkyKingdom"
+    },
+    {
+      "displayName": "SkyTower",
+      "mapName": "SkyTower"
+    },
+    {
+      "displayName": "SKYCASTLE",
+      "mapName": "SKYCASTLE"
+    },
+    {
+      "displayName": "Splatter Snek",
+      "mapName": "Splatter Snek"
+    },
+    {
+      "displayName": "Islands",
+      "mapName": "Islands"
+    },
+    {
+      "displayName": "City Streets",
+      "mapName": "City Streets"
+    },
+    {
+      "displayName": "Sundown Lake V1",
+      "mapName": "Sundown Lake V1"
+    },
+    {
+      "displayName": "Toy Story",
+      "mapName": "Toy Story"
+    },
+    {
+      "displayName": "Andy's Room",
+      "mapName": "Andy's Room"
+    },
+    {
+      "displayName": "Demo Derby 1.3",
+      "mapName": "Demo Derby 1.3"
+    },
+    {
+      "displayName": "Dodgeball Arena",
+      "mapName": "Dodgeball Arena"
+    },
+    {
+      "displayName": "Fiestabox",
+      "mapName": "Fiestabox"
+    },
+    {
+      "displayName": "Ghostbusters",
+      "mapName": "Ghostbusters!V2"
+    },
+    {
+      "displayName": "Ground Zero V3",
+      "mapName": "Ground Zero V3"
+    },
+    {
+      "displayName": "HP Beach Resort",
+      "mapName": "HP Beach Resort"
+    },
+    {
+      "displayName": "HP Hightops",
+      "mapName": "HP Hightops"
+    },
+    {
+      "displayName": "PSP_L1",
+      "mapName": "PSP_L1"
+    },
+    {
+      "displayName": "SHARKS!",
+      "mapName": "SHARKS!"
+    },
+    {
+      "displayName": "Tetris v0.91",
+      "mapName": "Tetris v0.91"
+    },
+    {
+      "displayName": "Slip n Slide",
+      "mapName": "Slip n Slide"
+    },
+    {
+      "displayName": "Jenga Tower V2",
+      "mapName": "Jenga V2"
+    },
+    {
+      "displayName": "Rat's Nest",
+      "mapName": "Rat's Nest Inf"
+    },
+    {
+      "displayName": "DeathCurve.v4",
+      "mapName": "DeathCurve.v4"
+    }
+  ],
+  "Types": [
+    {
+      "displayName": "GooseHunt",
+      "typeName": "GooseHunt",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "DeathCurve.v4",
+          "mapName": "DeathCurve.v4"
+        }
+      ]
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Basilisk Den",
+          "mapName": "Basilisk Den"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Basilisk",
+      "typeName": "Basilisk"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Block Fort",
+          "mapName": "Block Fort"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Block Fort TKOH",
+      "typeName": "Block Fort TKOH"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pitfall Dunes",
+          "mapName": "Pitfall Dunes"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Bomberman",
+      "typeName": "Bomberman"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Bridge Blow Up",
+          "mapName": "Bridge Blow Up"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "BridgeBlowUp",
+      "typeName": "BridgeBlowUp"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "PhantomMenacev2",
+          "mapName": "PhantomMenacev2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Castle StarWars",
+      "typeName": "Castle StarWars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Ruined Castle\r",
+          "mapName": "Ruined Castle"
+        },
+        {
+          "displayName": "StarfortWars",
+          "mapName": "StarfortWars"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Castle Wars",
+      "typeName": "Castle Wars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dog Red",
+          "mapName": "Dog Red"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "D'Day Assault",
+      "typeName": "D'Day Assault"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dog Red",
+          "mapName": "Dog Red"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "D'Day Zombies",
+      "typeName": "D'Day Zombies"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dig to Dewrito",
+          "mapName": "Dig to Dewrito"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Dig Dig Dig",
+      "typeName": "Dig Dig Dig"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Infested House",
+          "mapName": "Infested House"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Exterminator",
+      "typeName": "Exterminator"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SnowBox",
+          "mapName": "SnowBox"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "FFA Stickiez",
+      "typeName": "FFA Stickiez"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Flood Contagion",
+          "mapName": "Flood Contagion"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Flood Outbreak",
+      "typeName": "Flood Outbreak"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Sandy Pond"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Frogger",
+      "typeName": "Frogger"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "The Warehouse",
+          "mapName": "The Warehouse"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Get Out",
+      "typeName": "Get Out"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Gladiator Pit",
+          "mapName": "Gladiator Pit"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Gladiators",
+      "typeName": "Gladiators"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Hole in one Ca\r",
+          "mapName": "Hole in one Ca"
+        },
+        {
+          "displayName": "Hole in one",
+          "mapName": "Hole in one"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Hole in one",
+      "typeName": "Hole in one"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Joust! V1",
+          "mapName": "Joust! V1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Jousting GM",
+      "typeName": "Jousting GM"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Laser Tag Arena",
+          "mapName": "Laser Tag Arena"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Laser Tag",
+      "typeName": "Laser Tag"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Nacht D Untoten",
+          "mapName": "Nacht D Untoten"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Nazi Zombies 2",
+      "typeName": "Nazi Zombies 2"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pallet_CTF",
+          "mapName": "Pallet_CTF"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Pallet Flags",
+      "typeName": "Pallet Flags"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pirate YEET",
+          "mapName": "Pirate YEET"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Pirate Yeet CTF",
+      "typeName": "Pirate Yeet CTF"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "CenterHole",
+          "mapName": "CenterHole"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Roof Drop",
+      "typeName": "Roof Drop"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "HouseOfSpooxv2",
+          "mapName": "HouseOfSpooxv2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "seeknhide",
+      "typeName": "seeknhide"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SkyKingdom\r",
+          "mapName": "SkyKingdom"
+        },
+        {
+          "displayName": "SkyTower\r",
+          "mapName": "SkyTower"
+        },
+        {
+          "displayName": "SKYCASTLE",
+          "mapName": "SKYCASTLE"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Skycastle Plus",
+      "typeName": "Skycastle Plus"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Splatter Snek",
+          "mapName": "Splatter Snek"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Splatter Snek",
+      "typeName": "Splatter Snek"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Islands",
+          "mapName": "Islands"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Stab-Out",
+      "typeName": "Stab-Out"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "City Streets",
+          "mapName": "City Streets"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Survive! V1.5",
+      "typeName": "Survive! V1.5"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Sundown Lake V1",
+          "mapName": "Sundown Lake V1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Wacky Races V1",
+      "typeName": "Wacky Races V1"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Basilisk Den",
+          "mapName": "Basilisk Den"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Basilisk",
+      "typeName": "Basilisk"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Block Fort",
+          "mapName": "Block Fort"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Block Fort TKOH",
+      "typeName": "Block Fort TKOH"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pitfall Dunes",
+          "mapName": "Pitfall Dunes"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Bomberman",
+      "typeName": "Bomberman"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Bridge Blow Up",
+          "mapName": "Bridge Blow Up"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "BridgeBlowUp",
+      "typeName": "BridgeBlowUp"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "PhantomMenacev2",
+          "mapName": "PhantomMenacev2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Castle StarWars",
+      "typeName": "Castle StarWars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Ruined Castle",
+          "mapName": "Ruined Castle"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Castle Wars",
+      "typeName": "Castle Wars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dog Red",
+          "mapName": "Dog Red"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "D'Day Assault",
+      "typeName": "D'Day Assault"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dog Red",
+          "mapName": "Dog Red"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "D'Day Zombies",
+      "typeName": "D'Day Zombies"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dig to Dewrito",
+          "mapName": "Dig to Dewrito"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Dig Dig Dig",
+      "typeName": "Dig Dig Dig"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Infested House",
+          "mapName": "Infested House"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Exterminator",
+      "typeName": "Exterminator"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SnowBox",
+          "mapName": "SnowBox"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "FFA Stickiez",
+      "typeName": "FFA Stickiez"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Flood Contagion",
+          "mapName": "Flood Contagion"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Flood Outbreak",
+      "typeName": "Flood Outbreak"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Sandy Pond"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Frogger",
+      "typeName": "Frogger"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "The Warehouse",
+          "mapName": "The Warehouse"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Get Out",
+      "typeName": "Get Out"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Gladiator Pit",
+          "mapName": "Gladiator Pit"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Gladiators",
+      "typeName": "Gladiators"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Hole in one Ca\r",
+          "mapName": "Hole in one Ca"
+        },
+        {
+          "displayName": "Hole in one",
+          "mapName": "Hole in one"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Hole in one",
+      "typeName": "Hole in one"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Joust! V1",
+          "mapName": "Joust! V1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Jousting GM",
+      "typeName": "Jousting GM"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Jump rope",
+          "mapName": "Jump rope"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Jump Rope nb V",
+      "typeName": "Jump Rope nb V"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Laser Tag Arena",
+          "mapName": "Laser Tag Arena"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Laser Tag",
+      "typeName": "Laser Tag"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Nacht D Untoten",
+          "mapName": "Nacht D Untoten"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Nazi Zombies 2",
+      "typeName": "Nazi Zombies 2"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pallet_CTF",
+          "mapName": "Pallet_CTF"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Pallet Flags",
+      "typeName": "Pallet Flags"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pirate YEET",
+          "mapName": "Pirate YEET"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Pirate Yeet CTF",
+      "typeName": "Pirate Yeet CTF"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "CenterHole",
+          "mapName": "CenterHole"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Roof Drop",
+      "typeName": "Roof Drop"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "HouseOfSpooxv2",
+          "mapName": "HouseOfSpooxv2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "seeknhide",
+      "typeName": "seeknhide"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SkyKingdom\r",
+          "mapName": "SkyKingdom"
+        },
+        {
+          "displayName": "SkyTower\r",
+          "mapName": "SkyTower"
+        },
+        {
+          "displayName": "SKYCASTLE",
+          "mapName": "SKYCASTLE"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Skycastle Plus",
+      "typeName": "Skycastle Plus"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Splatter Snek",
+          "mapName": "Splatter Snek"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Splatter Snek",
+      "typeName": "Splatter Snek"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Islands",
+          "mapName": "Islands"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Stab-Out",
+      "typeName": "Stab-Out"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "City Streets",
+          "mapName": "City Streets"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Survive! V1.5",
+      "typeName": "Survive! V1.5"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Sundown Lake V1",
+          "mapName": "Sundown Lake V1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Wacky Races V1",
+      "typeName": "Wacky Races V1"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Toy Story",
+          "mapName": "Toy Story"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Hot Wheels",
+      "typeName": "Hot Wheels"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Andy's Room",
+          "mapName": "Andy's Room"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Low Grav Fiesta",
+      "typeName": "Low Grav Fiesta"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Demo Derby 1.3",
+          "mapName": "Demo Derby 1.3"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Rent a Car",
+      "typeName": "Rent a Car"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Dodgeball Arena",
+          "mapName": "Dodgeball Arena"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Dodgeball",
+      "typeName": "Dodgeball"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Fiestabox",
+          "mapName": "Fiestabox"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1"
+      ],
+      "displayName": "Fiesta Time",
+      "typeName": "Fiesta Time"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Ghostbusters",
+          "mapName": "Ghostbusters!V2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Ghostbusters",
+      "typeName": "Ghostbusters"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Ground Zero V3",
+          "mapName": "Ground Zero V3"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Ground Zero V3",
+      "typeName": "Ground Zero V3"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "HP Beach Resort\r",
+          "mapName": "HP Beach Resort"
+        },
+        {
+          "displayName": "HP Hightops",
+          "mapName": "HP Hightops"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Hot Pursuit",
+      "typeName": "Stan HotPursuit"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "PSP_L1",
+          "mapName": "PSP_L1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Paintball",
+      "typeName": "Paintball"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SHARKS!",
+          "mapName": "SHARKS!"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "SWIM OR DIE",
+      "typeName": "SWIM OR DIE"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Tetris v0.91",
+          "mapName": "Tetris v0.91"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Tetris",
+      "typeName": "Tetris - Yangjo"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Slip n Slide",
+          "mapName": "Slip n Slide"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Slip & Slide",
+      "typeName": "Slip & Slide"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Jenga Tower V2",
+          "mapName": "Jenga V2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Jenga Tower V2",
+      "typeName": "Jenga Tower V2"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Rat's Nest",
+          "mapName": "Rat's Nest Inf"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "Cat n Mouse",
+      "typeName": "Cat n Mouse"
+    }
+  ]
+}
